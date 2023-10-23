@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://makucas.github.io',
                 'git_url': 'https://github.com/makucas/nbdev_test',
                 'lib_path': 'nbdev_test'},
-  'syms': {'nbdev_test.core': {'nbdev_test.core.foo': ('core.html#foo', 'nbdev_test/core.py')}}}
+  'syms': { 'nbdev_test.core': {'nbdev_test.core.foo': ('test.html#foo', 'nbdev_test/core.py')},
+            'nbdev_test.test': {'nbdev_test.test.say_hello': ('test.html#say_hello', 'nbdev_test/test.py')}}}
