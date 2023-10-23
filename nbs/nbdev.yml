@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://makucas.github.io/nbdev_test"
+  description: "xD"
+  repo-branch: main
+  repo-url: "https://github.com/makucas/nbdev_test"
